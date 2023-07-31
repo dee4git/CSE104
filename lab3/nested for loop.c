@@ -10,7 +10,6 @@ int main()
             count++;
             printf("%d ", count);
         }
-        printf("--- inside for loop done once --- \n");
 
     }
 
